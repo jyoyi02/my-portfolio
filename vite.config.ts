@@ -9,4 +9,5 @@ export default defineConfig({
     port: 3001,
     host: true, // exposes to network / outside container
   },
+  base: "/my-portfolio/",
 });

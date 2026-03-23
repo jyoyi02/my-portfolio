@@ -15,7 +15,7 @@ export default function About() {
             I am a passionate Senior Software Developer with extensive experience
             in Full Stack development. Currently working with the{' '}
             <strong className="text-white">
-              Central Information Commission (CIC)
+              Central Information Commission (CIC) Delhi, India
             </strong>
             , I lead the development of scalable applications using modern
             technologies.
@@ -65,7 +65,7 @@ export default function About() {
               Master Of Computer Application
             </h4>
             <p className="text-white">
-              Lakshmi Narain College of Technology, Bhopal
+              Lakshmi Narain College of Technology, Bhopal, MP
             </p>
             <p className="text-sm text-gray-500">
               June 2020 - August 2022 | 9.5 CGPA
@@ -77,11 +77,15 @@ export default function About() {
             <h3 className="text-xl font-bold text-white mb-3">Contact</h3>
             <p className="text-gray-400 flex items-center gap-2 mb-2">
               <IconPhone size={18} className="text-blue-500" />
-              +91 7970560817
+              +91 **********
+            </p>
+            <p className="text-gray-400 flex items-center gap-2">
+              <IconMail size={18} className="text-blue-500" />
+              jyotikumari070297@gmail.com
             </p>
             <p className="text-gray-400 flex items-center gap-2">
               <IconMapPin size={18} className="text-blue-500" />
-              Bhopal, M P, India
+              Noida Sector 44, India
             </p>
           </div>
         </div >
